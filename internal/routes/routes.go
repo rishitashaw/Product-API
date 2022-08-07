@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"chi"
+	"github.com/go-chi/chi"
 )
 
 type Router struct {
